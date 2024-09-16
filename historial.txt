@@ -1,0 +1,66 @@
+    1  ssh-keygen
+    2  cd home
+    3  ls
+    4  cd repogit
+    5  ls
+    6  cd sasa
+    7  cd UTN-FRA_SO_onBording/
+    8  ...cd
+    9  clear
+   10  -la
+   11  ls -la
+   12  clear
+   13  ls
+   14  pwd
+   15  whoaim
+   16  woami
+   17  whoami
+   18  echo "hola"
+   19  echo $HOME
+   20  git clone https://github.com/santinocerezo/Repo_Cerezo.git
+   21  ls
+   22  cd Repo_Cerezo/
+   23  ls
+   24  history
+   25  history > historial.txt
+   26  ls
+   27  cat historial.txt 
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m "Comentario 1"
+   32  git config --global user.email "santinocf1@hotmail.com"
+   33  git global --global user.name "santinocf"
+   34  git config --global user.name "santinocf"
+   35  git commit -m "Primer commit"
+   36  git push
+   37  git commit -m "Primer commit"
+   38  clear
+   39  exit
+   40  pwd
+   41  ls
+   42  ls -la
+   43  cd .ssh
+   44  ls
+   45  cat id_ed25519.pub 
+   46  cd ..
+   47  ls
+   48  cd repogit
+   49  ls -l
+   50  ls
+   51  git clone git@github.com:santinocerezo/Repo_Cerezo.git
+   52  ls
+   53  ls -l
+   54  git clone git@github.com:santinocerezo/Repo_Cerezo.git
+   55  ls
+   56  rm sasa
+   57  rm sasa.pub
+   58  ls
+   59  ls -l
+   60  ls
+   61  cd Repo_Cerezo/
+   62  ls 
+   63  history add .
+   64  add . 
+   65  history
+   66  history > historial.txt
